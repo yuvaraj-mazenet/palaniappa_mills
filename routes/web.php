@@ -14,7 +14,7 @@
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Mail;
 
-
+hello
 
 
 //for maintenance mode
